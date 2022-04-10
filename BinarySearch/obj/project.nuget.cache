@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ItL23mKtBAdTMyK28wBmY78NszTwcDQJniMOaWJ6mWwRRoyraRSJ7iNy9kHFBThPKmtnz1qS5QQS6XhcU9pbkg==",
+  "success": true,
+  "projectFilePath": "D:\\iti .net\\Asp.Net Core MVC\\Crud\\CrudOperationsUsing repository\\DotNet5CRUD\\PrimeNumber\\BinarySearch\\BinarySearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
